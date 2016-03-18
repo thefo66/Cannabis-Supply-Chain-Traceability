@@ -19,8 +19,11 @@ Help make these recommendations better by collaborating. Please suggest enhancem
 For information on how to contribute, please see the [how to contribute](CONTRIBUTING.md).
 
 ## License
+![Creative Commons License](https://i.creativecommons.org/l/by-nd/4.0/88x31.png)
 
-The project is a public domain work and is not subject to domestic or international copyright protection. See [the license file](LICENSE.md) for additional information.
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
+
+See [the license file](LICENSE.md) for additional information.
 
 ## Privacy
 
