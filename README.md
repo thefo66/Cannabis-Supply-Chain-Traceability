@@ -1,7 +1,5 @@
 # Cannabis Supply Chain Traceability
 
-_Disclaimer: This document, and all contents of this repository are currently in the process of obtaining feedback and being released. All content, files, and licenses are subject to change. - 2016-03-21_
-
 Cannabis supply chain traceability in an Open Cannabis System.
 
 [Download PDF (14.4 MB)](https://raw.githubusercontent.com/CannabisReports/Cannabis-Supply-Chain-Traceability/master/cannabis-supply-chain-traceability.pdf) - _Last modified: 2016-03-21_
@@ -34,3 +32,7 @@ See [the license file](LICENSE.md) for additional information.
 ## Privacy
 
 Comments, pull requests, and any other messages received through this repository are publicly accessible and available.
+
+## Disclaimer
+
+_This document, and all contents of this repository are currently in the process of obtaining feedback and being released. All content, files, and licenses are subject to change. - 2016-03-21_
