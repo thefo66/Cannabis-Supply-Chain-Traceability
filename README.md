@@ -4,6 +4,10 @@ _Disclaimer: This document, and all contents of this repository are currently in
 
 Cannabis supply chain traceability in an Open Cannabis System.
 
+[Download PDF (14.4 MB)](https://raw.githubusercontent.com/CannabisReports/Cannabis-Supply-Chain-Traceability/master/cannabis-supply-chain-traceability.pdf) - _Last modified: 2016-03-21_
+
+[View / Submit Changes to Text](https://github.com/CannabisReports/Cannabis-Supply-Chain-Traceability/blob/master/cannabis-supply-chain-traceability.md) - _Last modified: Updated 2016-03-21_
+
 ## Problem this Solves
 
 The cannabis industry is moving forward at a global scale faster than technology and policy makers can keep up. There is not a standard for the way we identify and describe cannabis products. This is detrimental to research, technology, and the ability for all to participate equally and safely in a global cannabis marketplace.
