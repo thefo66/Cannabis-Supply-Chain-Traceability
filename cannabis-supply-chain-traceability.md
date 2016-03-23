@@ -4,7 +4,7 @@ Cannabis Reports established themselves as a leader in the identification of can
 
 Working with various customers, retailers, and production groups in multiple states and internationally, it was clear that work needed to be done to focus on building a traceability model that has global applicability. The Open Cannabis System was developed in conjunction with producers and retailers in the field of cannabis from small farmers to massive production facilities. 
 
-Effective cannabis traceability is based upon the accuracy of the information about the products contained in records held by the various supply chain partners. This document provides recommendations and guidance needed to understand and implement the Open Cannabis System of numbering and bar coding from the company providing the seeds or clones to grow plants, all the way to the consumption of finished products. Getting access to the tools necessary to use the Open Cannabis System requires membership with Cannabis Reports. Please consult https://www.cannabisreports.com/grow-your-business to see how to get started. 
+Effective cannabis traceability is based upon the accuracy of the information about the products contained in records held by the various supply chain partners. This document provides recommendations and guidance needed to understand and implement the Open Cannabis System of numbering and bar coding from the company providing the seeds or clones to grow plants, all the way to the consumption of finished products. Access to many tools necessary for the Open Cannabis System requires involvment with Cannabis Reports. Please consult https://www.cannabisreports.com/grow-your-business to see how to get started. 
 
 The adoption of the full set of the Open Cannabis System is especially timely in view of the changing landscape of cannabis legalization and medical cannabis acceptance across the United States and around the world. While individual states are inventing compliance and regulatory practices for localized tracking and consumption, leading producers and retailers are adopting the Open Cannabis System ahead of regulations to ensure a healthy global cannabis industry where consumers and businesses can interact and thrive together. 
 
@@ -22,9 +22,9 @@ If properly used by each member of an extended supply chain, products and data, 
 
 ## 4. Cannabis Reports Traceability Tools 
 
-The introduction of the Open Cannabis System can improve the efficiency of recording and exchanging information between supply chain participants and consumers. When used in conjunction with databases containing accurate and timely records, Open Cannabis System provide all supply chain participants and consumers with the technical capability to see the origin and lab testings of a product, both in their own locations and across the entire supply chain. 
+The introduction of the Open Cannabis System can improve the efficiency of recording and exchanging information between supply chain participants and consumers. When used in conjunction with databases containing accurate and timely records, the Open Cannabis System provide all supply chain participants and consumers with the technical capability to see the origin and lab testings of a product, both in their own locations and across the entire supply chain. 
 
-At the simplest level, item coding is what the name suggests — a system for identifying and codifying items by giving each one a unique identifier. Identification can be applied at every stage of production and distribution. It is used to identify products and services. While the most visible aspect of item coding is the bar code, it is only a machine-readable representation of a number. It is the code, which is the most important element in the Open Cannabis System, because the code identifies the item to which it is assigned. 
+At the simplest level, item coding is what the name suggests — a system for identifying and codifying items by giving each one a unique identifier. Identification can be applied at every stage of production and distribution. It is used to identify products and services. While the most visible aspect of item coding is the bar code, it is only a machine-readable representation of a number. It is the code which is the most important element in the Open Cannabis System because the code identifies the item to which it is assigned. 
 
 The Cannabis Reports codification system provides for global uniqueness and overcomes problems of confusion, duplication, and misinterpretation, because all users of the Open Cannabis System follow the same codification rules. An Universal Cannabis Product Code can be recognized not only by local trading partner companies, but by companies operating overseas as well. Each code is unique worldwide, so there is no possibility of confusion. The Open Cannabis codification system also provides the ability for items to also carry, within the coding convention, extra or attribute information pertaining to the item. 
 
@@ -72,7 +72,9 @@ https://www.cannabisreports.com/api
 
 The cannabis supply chain has always been complex and fragmented with more distant suppliers and evermore demanding customers, the unique characteristics of this supply chain bring challenges to implementing an effective traceability system. 
 
-The largest companies account for a significant percentage of the industry and have significant technology requirements. The remainder of the industry is comprised of small to medium enterprises, many of which have found niches in specialty products and branding. There is also a myriad of other support companies that provide materials, transportation, storage and other services that are also impacted by traceability. 
+The largest companies have significant technology requirements. The remainder of the industry is comprised of small to medium enterprises, many of which have found niches in specialty products and branding. There is also a myriad of other support companies that provide materials, transportation, storage and other services that are also impacted by traceability.
+
+Part of the goal of the Open Cannabis System is to allow any cannabis enterprise, large to small, the ability to access information at whatever technical level they choose.
 
 Companies vary greatly in their technical capabilities; from phone, fax and paper based transactions, through robust e-commerce, bar code, and other internal and state or locally mandated systems. Their ability to identify implicated product, and perform track and trace activities is directly related to their technical capabilities. 
 
@@ -264,7 +266,7 @@ Since purchasing cannabis in retail or medical locations started becoming more a
 
 #### 5.6.3 Traceability Data
 
-For the case of bulk distributed goods, proper labelling to ensure quantity, as well as traceability and test results should be readily available. Labelling should include access to the Universal Cannabis Product Code (UCPC - Sec. 4.4) on the receipt of purchase or on the packaging itself. For packaged goods, the UPC-A barcode should be available for point of sale scanning. 
+For the case of bulk distributed goods, proper labelling to ensure quantity as well as traceability and test results should be readily available. Labelling should include access to the Universal Cannabis Product Code (UCPC - Sec. 4.4) on the receipt of purchase or on the packaging itself. For packaged goods, the UPC-A barcode should be available for point of sale scanning. 
 
 #### 5.6.4 Open Cannabis Recommendations
 
@@ -280,7 +282,7 @@ The consumer should be provided access to information regarding the traceability
 
 #### 5.7.2 Description 
 
-With availability of cannabis products becoming mainstream and out of medical-only consumption, it is important to allow for accurate traceability of products entering the marketplace. Without easy access to traceability and transparency tools, participants throughout the cannabis supply chain will not be able to operate on equal playing fields. Allowing equal participation in a new, global, and rapidly growing industry is essential for continued innovation, safety, and allows for the diversity of cannabis to continue thriving. 
+With availability of cannabis products becoming mainstream and out of medical-only consumption, it is important to allow for accurate traceability of products entering the marketplace. Without easy access to traceability and transparency tools, participants throughout the cannabis supply chain will not be able to operate on equal playing fields. Additionally, consumers will not have the ability to properly inform themselves regarding their use or consumption of cannabis products. Allowing equal participation in a new, global, and rapidly growing industry is essential for continued innovation, safety, and allows for the diversity of cannabis to continue thriving. 
 
 #### 5.7.3 Traceability Data 
 
