@@ -2,9 +2,9 @@
 
 Cannabis supply chain traceability in an Open Cannabis System.
 
-[Download PDF (14.4 MB)](https://raw.githubusercontent.com/CannabisReports/Cannabis-Supply-Chain-Traceability/master/cannabis-supply-chain-traceability.pdf) - _Last modified: 2016-03-21_
+[Download PDF (14.4 MB)](https://raw.githubusercontent.com/CannabisReports/Cannabis-Supply-Chain-Traceability/master/cannabis-supply-chain-traceability.pdf) - _Last modified: 2016-03-23_
 
-[View / Submit Changes to Text](https://github.com/CannabisReports/Cannabis-Supply-Chain-Traceability/blob/master/cannabis-supply-chain-traceability.md) - _Last modified: Updated 2016-03-21_
+[View / Submit Changes to Text](https://github.com/CannabisReports/Cannabis-Supply-Chain-Traceability/blob/master/cannabis-supply-chain-traceability.md) - _Last modified: 2016-03-23_
 
 ## Problem this Solves
 
